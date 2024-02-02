@@ -8,6 +8,8 @@ let nomeVariavel = "Sol";
 
 //Crie uma variável chamada idade e atribua a ela o valor 25.
 let idadeTeste = 25;
+let idadeAndressa = 40;
+let idadeDanilo = 41;
 
 //Defina uma variável numeroDeVendas e atribua a ela o valor 50.
 let numeroDeVendas = 50;
