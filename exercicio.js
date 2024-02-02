@@ -4,7 +4,7 @@ alert('Boas vindas ao nosso site!');
 
 //Declare uma variável chamada nome e atribua a ela o valor "Lua" e "Sol".
 let nome = "Lua";
-let nomeVarialve = "Sol";
+let nomeVariavel = "Sol";
 
 //Crie uma variável chamada idade e atribua a ela o valor 25.
 let idadeTeste = 25;
