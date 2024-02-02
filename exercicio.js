@@ -7,7 +7,7 @@ let nome = "Lua";
 let nomeVariavel = "Sol";
 
 //Crie variável chamada idade da sua família e atribua a ela o valor 25.
-let idadeTeste = 20;
+let idadeTeste = 21;
 let idadeAndressa = 40;
 let idadeDanilo = 41;
 let idadeJC = 17;
